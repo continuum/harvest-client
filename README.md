@@ -11,6 +11,7 @@ If you want to continue this project feel free to do.
 ## Installation
 
 1º Open file authentication.properties, set your account information and save it.
+
 2º Run the file run.bat 
 
 If you have problems to run, probably you need to install Java and set the JAVA_HOME enviroment variable.
